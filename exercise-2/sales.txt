@@ -1,0 +1,7 @@
+pencil 2
+lead 2
+pen 1
+lead 4
+notebook 3
+pencil 4
+lead 1
