@@ -1,4 +1,2 @@
-pencil 33
-notebook 21
-lead 7
-pen 1
+pencil 27
+notebook 18
